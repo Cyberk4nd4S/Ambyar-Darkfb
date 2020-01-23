@@ -15,6 +15,10 @@ Script dark fb v1.7 terbaru
 
 - pip2 install mechanize
 
-- cd darkfb
+- cd Ambyar-Darkfb
 
 - python2 Dark.py
+
+# Untuk Username Password script
+
+- WA : +1 5038220202
