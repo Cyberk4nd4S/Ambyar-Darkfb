@@ -3,13 +3,18 @@ Script dark fb v1.7 terbaru
 
 # cara menggunakan
 
-<!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-dark-fb/</code></pre>
-<!-- /wp:code -->
+- apt update && apt upgrade -y
 
-# tetap terhubung
+- pkg install git 
 
-<!-- wp:code -->
-<pre class="wp-block-code"><code>http://termux.id/</code></pre>
-<pre class="wp-block-code"><code>http://storiku.xyz</code></pre>
-<!-- /wp:code -->
+- pkg install python2
+
+- git clone https://github.com/Cyberk4nd4S/Ambyar-Darkfb
+
+- pip2 install requests
+
+- pip2 install mechanize
+
+- cd darkfb
+
+- python2 Dark.py
